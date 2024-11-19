@@ -1,6 +1,6 @@
-# Expo News App Starter Template 👋
+# Expo News App👋
 
-This is a starter template for the expo news app tutorial on my YouTube channel.
+This is a React Nativeexpo news app.
 
 ## Get started
 
@@ -22,4 +22,3 @@ Extra dependencies added here
 - [AsyncStorage](https://react-native-async-storage.github.io/async-storage/docs/install/)
 - [Expo Linear Gradient](https://docs.expo.dev/versions/latest/sdk/linear-gradient/)
 - [Moment JS](https://www.npmjs.com/package/moment)
-
